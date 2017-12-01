@@ -1,0 +1,130 @@
+[{
+    "id" : "document",
+    "name" : "CZML Point - Time Dynamic",
+    "version" : "1.0"
+}, {
+    "id" : "point1",
+    "availability" : "2017-08-04T10:00:00Z/2017-08-04T10:01:00Z",
+    "name" : "Balsamico",
+    "description" : "< sobre el <a href='https://www.balsamico.com.co/'>,.<img src=https://restorando-res.cloudinary.com/image/upload/s--83kCuyu5--/c_fit,f_auto,h_500,w_700/v1430416316/restaurant_photos/w/7900/62122/restaurante_balsamico-hacienda-santa-barbara_usaquen_b_hacienda_2.jpg'>",
+    "position" : {
+        "epoch" : "2017-08-04T10:00:00Z",
+        "cartographicDegrees" : [
+            3,-74.03255492448807,4.692984161046604,30,
+            360, -74.03255492448807,4.692984161046604,30
+
+
+        ]
+    },
+    "point" : {
+        "color" : {
+            "rgba" : [255, 255, 255, 128]
+        },
+        "outlineColor" : {
+            "rgba" : [255, 0, 0, 128]
+        },
+        "outlineWidth" : 3,
+        "pixelSize" : 15
+    }
+},{
+    "id" : "point2",
+    "availability" : "2017-08-04T10:00:00Z/2017-08-04T10:01:00Z",
+    "name" : "Rock'N stop",
+    "description" : "< sobre el <a href='https://www.rocknstop.com/'>,.<img src=https://https://www.facebook.com/RockNStop/?rf=1529950787306723'>",
+    "position" : {
+        "epoch" : "2017-08-04T10:00:00Z",
+        "cartographicDegrees" : [
+           6,-74.03252273797989,4.694719076512107,30,
+            360,-74.03252273797989,4.694719076512107,30
+        ]
+
+        ]
+    },
+    "point" : {
+        "color" : {
+            "rgba" : [255, 255, 255, 128]
+        },
+        "outlineColor" : {
+            "rgba" : [255, 0, 0, 128]
+        },
+        "outlineWidth" : 3,
+        "pixelSize" : 15
+    }
+},
+{
+    "id" : "point3 ",
+    "availability" : "2017-08-04T10:00:00Z/2017-08-04T10:01:00Z",
+    "name" : "Parque Usaquen",
+    "description" : "< sobre el <a href='https://www.tripadvisor.co/Attraction_Review-g294074-d7729122-Reviews-Parque_de_Usaquen-Bogota.html'>,.<img src=https://media-cdn.tripadvisor.com/media/photo-s/07/66/99/29/parque-de-usaquen.jpg'>",
+    "position" : {
+        "epoch" : "2017-08-04T10:00:00Z",
+        "cartographicDegrees" : [
+            10, -74.0309402346611,4.695165502444097, 30,
+            360, -74.0309402346611,4.695165502444097, 30
+        ]
+    },
+    "point" : {
+        "color" : {
+            "rgba" : [255, 255, 255, 128] 
+        },
+        "outlineColor" : {
+            "rgba" : [255, 0, 0, 128]
+        },
+        "outlineWidth" : 3,
+        "pixelSize" : 15
+    }
+},
+{
+       "id" : "point4 ",
+    "availability" : "2017-08-04T10:00:00Z/2017-08-04T10:01:00Z",
+    "name" : "Parque Usaquen",
+    "description" : "< sobre el <a href='http://psantabarbaradeusaquen.arquibogota.org.co/es/'>,.<img src=http://contenidos.civico.com/wp-content/uploads/2014/04/parroquia-sta-bbra-ext-foto-wikimedia-1.jpg'>",
+    "position" : {
+        "epoch" : "2017-08-04T10:00:00Z",
+        "cartographicDegrees" : [
+            14, -74.03044670820236,4.6950425348506135,30,
+            360, -74.03044670820236,4.6950425348506135,30
+        ]
+        
+
+    },
+    "point" : {
+        "color" : {
+            "rgba" : [255, 255, 255, 128]
+        },
+        "outlineColor" : {
+            "rgba" : [255, 0, 0, 128]
+        },
+        "outlineWidth" : 3,
+        "pixelSize" : 15
+    }
+},
+{
+        "id" : "point4 ",
+    "availability" : "2017-08-04T10:00:00Z/2017-08-04T10:01:00Z",
+    "name" : "Parque Usaquen",
+    "description" : "< sobre el <a href='http://psantabarbaradeusaquen.arquibogota.org.co/es/'>,.<img src=http://contenidos.civico.com/wp-content/uploads/2014/04/parroquia-sta-bbra-ext-foto-wikimedia-1.jpg'>",
+    "position" : {
+        "epoch" : "2017-08-04T10:00:00Z",
+        "cartographicDegrees" : [
+            13, -74.03044670820236,30,
+            360, 4.6950425348506135,30
+        ]
+        
+
+    },
+    "point" : {
+        "color" : {
+            "rgba" : [255, 255, 255, 128]
+        },
+        "outlineColor" : {
+            "rgba" : [255, 0, 0, 128]
+        },
+        "outlineWidth" : 3,
+        "pixelSize" : 15
+    }
+
+
+},
+
+]
